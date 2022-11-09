@@ -1,0 +1,11 @@
+XPATH
+/html/body/main/article/div[3]/div[2]/div/div/div[3]/div[4]/div[1]/div[1]/div/div
+
+RAW HTML (OUT OF STOCK)
+<i class="fa-solid fa-circle-xmark text-burnt"></i><span><span class="matrix-44 hide-text" style="position:absolute; right:0;"></span>SOLD OUT<span class="storeName"> at Tustin Store</span></span>
+                   
+RAW HTML (IN STOCK)
+<i class="fa-solid fa-circle-check text-slate-blue"></i><span><span class="matrix-7 hide-text" style="position:absolute; right:0;"></span><span class="inventoryCnt">25+ <span class="msgInStock">NEW IN STOCK</span></span><span class="storeName"> at Tustin Store</span></span>                       
+
+EXPLORE CART OPTIONS
+
